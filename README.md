@@ -1,4 +1,4 @@
- ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/download.gif)
+ ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/1.gif)
 
 
 
@@ -13,8 +13,8 @@
 
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=typescript&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=wordpress&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=react&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-wordpress-000000?style=for-the-badge&logo=wordpress&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&&logoColor=0000000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizaveta01&theme=highcontrast&show_icons=true)
