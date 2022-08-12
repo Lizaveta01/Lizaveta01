@@ -1,4 +1,4 @@
- ![Header](D:\GIT\Lizaveta01\assets\download.gif)
+ ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/download.gif)
 
 
 
