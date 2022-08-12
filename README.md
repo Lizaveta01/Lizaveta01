@@ -13,8 +13,15 @@
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-wordpress-000000?style=for-the-badge&logo=wordpress&&logoColor=0000000)
-![Flutter](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/sass-origin.svgf&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-wordpress-000000?style=for-the-badge&logo=wordpress&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-html5-000000?style=for-the-badge&logo=html5&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css3&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-sass-000000?style=for-the-badge&logo=Sass&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-illustrator-000000?style=for-the-badge&logo=adobeillustrator&&logoColor=0000000)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizaveta01&theme=highcontrast&show_icons=true)
