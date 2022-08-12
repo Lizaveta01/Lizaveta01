@@ -1,8 +1,8 @@
  ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/3.gif)
 
-
-- 🌱 I’m currently learning front-end course at RS School
 - 🔭 Now I'm looking for practice / intership / job
+- 🌱 I’m currently learning front-end course at [RS School](https://rs.school/)
+- 🥊 Besides programming I’m fond of sports, travelling and painting.
 
 
 ### Follow me
@@ -14,6 +14,7 @@
 ![Flutter](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-wordpress-000000?style=for-the-badge&logo=wordpress&&logoColor=0000000)
+![Flutter](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/sass-origin.svgf&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&&logoColor=0000000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizaveta01&theme=highcontrast&show_icons=true)
