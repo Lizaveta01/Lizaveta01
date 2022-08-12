@@ -1,5 +1,4 @@
- ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/2.gif)
-
+ ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/3.gif)
 
 
 - 🌱 I’m currently learning front-end course at RS School
