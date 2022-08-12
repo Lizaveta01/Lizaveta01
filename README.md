@@ -1,4 +1,4 @@
- ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/1.gif)
+ ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/2.gif)
 
 
 
