@@ -36,7 +36,6 @@
 - [Quote generator](https://rolling-scopes-school.github.io/lizaveta01-JSFEPRESCHOOL/quotes/)
 - [Mem slider](https://lizaveta01.github.io/cssMemSlider/cssMemSlider/)
 - [Shelter multipage](https://rolling-scopes-school.github.io/lizaveta01-JSFE2022Q1/shelter/pages/main/)
-- [CV](https://lizaveta01.github.io/cv/index.html)
 
 ---
 ### 📊 My stats
