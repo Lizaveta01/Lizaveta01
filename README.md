@@ -1,14 +1,17 @@
- ![Header](https://github.com/Lizaveta01/Lizaveta01/blob/main/assets/3.gif)
-### Follow me
-[![Flutter](https://img.shields.io/badge/-LinkedIn-0045CB?style=for-the-badge&logo=LinkedIn&&logoColor=0000000)](https://www.linkedin.com/in/lizaveta-petrova-4b1991220/)
-[![Flutter](https://img.shields.io/badge/-telegram-027AE9?style=for-the-badge&logo=Telegram&&logoColor=0000000)](https://tlgg.ru/its_magellan)
-[![Flutter](https://img.shields.io/badge/-gmail-EB1D00?style=for-the-badge&logo=Gmail&&logoColor=FFFFFF)](mailto:goldgalider@gmail.com)
+### Hello! I'm frontend developer
 
----
 ### 👨‍💻 About me
 - 🔭 Now I'm looking for practice / intership / job
 - 🌱 I’m currently learning front-end course at [RS School](https://rs.school/)
 - 🥊 Besides programming I’m fond of sports, travelling and painting.
+
+
+---
+### Follow me
+[![Flutter](https://img.shields.io/badge/-LinkedIn-0045CB?style=for-the-badge&logo=LinkedIn&&logoColor=0000000)](https://www.linkedin.com/in/lizaveta-petrova-4b1991220/)
+[![Flutter](https://img.shields.io/badge/-telegram-027AE9?style=for-the-badge&logo=Telegram&&logoColor=0000000)](https://t.me/its_magellan)
+[![Flutter](https://img.shields.io/badge/-gmail-EB1D00?style=for-the-badge&logo=Gmail&&logoColor=FFFFFF)](mailto:goldgalider@gmail.com)
+
 
 ---
 
