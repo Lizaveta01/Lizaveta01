@@ -2,7 +2,6 @@
 
 ### 👨‍💻 About me
 - 🔭 Now I'm looking for practice / intership / job
-- 🌱 I’m currently learning front-end course at [RS School](https://rs.school/)
 - 🥊 Besides programming I’m fond of sports, travelling and painting.
 
 
