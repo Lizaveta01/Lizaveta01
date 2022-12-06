@@ -29,6 +29,7 @@
 
 ---
 ### 🧩 My projects
+- [Taskban - kanban app](https://team-taskban.netlify.app/)
 - [Online Store](https://rolling-scopes-school.github.io/lizaveta01-JSFE2022Q1/online-store/index.html)
 - [Photographer landinging page](https://rolling-scopes-school.github.io/lizaveta01-JSFEPRESCHOOL/portfolio/)
 - [Memo-game](https://lizaveta01.github.io/memory-game/)
