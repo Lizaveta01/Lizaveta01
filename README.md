@@ -1,7 +1,7 @@
 ### Hello! I'm frontend developer
 
 ### 👨‍💻 About me
-- 🔭 Now I'm looking for practice / intership / job
+- 🔭 Now I'm looking for a job
 - 🥊 Besides programming I’m fond of sports, travelling and painting.
 
 
