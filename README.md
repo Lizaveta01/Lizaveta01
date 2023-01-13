@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=E7F72C&background=0842BC00&center=true&vCenter=true&width=800&height=80&lines=Hello!+I'm+frontend+developer+Liza;Welcome+to+my+GiHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&duration=4000&pause=1000&color=E7F72C&background=0842BC00&center=true&vCenter=true&width=900&height=80&lines=Hello!+I'm+JavaScript+evangelist%2C+but+you+can+call+me+frontend+developer;Welcome+to+my+GiHub)](https://git.io/typing-svg)
 
 ### 👨‍💻 About me
 - 🔭 Now I'm looking for a job
