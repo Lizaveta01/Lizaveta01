@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&duration=4000&pause=1000&color=E7F72C&background=000000&center=true&vCenter=true&width=900&height=80&lines=Hello!+I'm+JavaScript+evangelist%2C+but+you+can+call+me+frontend+developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 ### 👨‍💻 About me
-- 🔭 Now I'm looking for a job
+- 🔭 React | React Native developer
 - 🥊 Besides programming I’m fond of sports, travelling and painting.
 
 
