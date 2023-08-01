@@ -1,16 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&duration=4000&pause=1000&color=E7F72C&background=000000&center=true&vCenter=true&width=900&height=80&lines=Hello!+I'm+JavaScript+evangelist%2C+but+you+can+call+me+frontend+developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
-
-### 👨‍💻 About me
-- 🔭 React | React Native developer
-- 🥊 Besides programming I’m fond of sports, travelling and painting.
-
-
----
-### Follow me
-[![Flutter](https://img.shields.io/badge/-LinkedIn-0045CB?style=for-the-badge&logo=LinkedIn&&logoColor=0000000)](https://www.linkedin.com/in/lizaveta-petrova-4b1991220/)
-[![Flutter](https://img.shields.io/badge/-telegram-027AE9?style=for-the-badge&logo=Telegram&&logoColor=0000000)](https://t.me/its_magellan)
-[![Flutter](https://img.shields.io/badge/-gmail-EB1D00?style=for-the-badge&logo=Gmail&&logoColor=FFFFFF)](mailto:goldgalider@gmail.com)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lizaveta01/Lizaveta01/main/preview.png" height="200"/>
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Liza </h1>
+<h3 align="center">Software Engineer | Frontend | Backend | Mobile </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/lizaveta-petrova-4b1991220/" target="_blank" style="text-decoration:none;">
+  <img align="center" alt="Liza Petrova | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/itsmagellan" target="_blank">
+  <img align="center" alt="Liza Petrova | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/its_magellan/" target="_blank">
+  <img align="center" alt="Liza Petrova | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:goldgalider@gmail.com" >
+  <img align="center" alt="Liza Petrova | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100013628134596">
+    <img align="center" alt="Liza Petrova | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/512px-Telegram_alternative_logo.svg.png?20220331105502" />
+</a> &nbsp;&nbsp;
+<p>
 
 ---
 
@@ -27,3 +36,17 @@
 ![Flutter](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-illustrator-000000?style=for-the-badge&logo=adobeillustrator&&logoColor=0000000)
 
+     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
