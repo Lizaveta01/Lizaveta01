@@ -16,7 +16,7 @@
 <a href="mailto:goldgalider@gmail.com" >
   <img align="center" alt="Liza Petrova | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
+<a href="https://t.me/its_magellan">
     <img align="center" alt="Liza Petrova | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/512px-Telegram_alternative_logo.svg.png?20220331105502" />
 </a> &nbsp;&nbsp;
 <p>
