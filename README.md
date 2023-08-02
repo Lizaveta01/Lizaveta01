@@ -36,17 +36,3 @@
 ![Flutter](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-illustrator-000000?style=for-the-badge&logo=adobeillustrator&&logoColor=0000000)
 
-     
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
