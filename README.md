@@ -10,9 +10,6 @@
 <a href="https://twitter.com/itsmagellan" target="_blank">
   <img align="center" alt="Liza Petrova | Twitter" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" height="30" width="30"/>
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/its_magellan/" target="_blank">
-  <img align="center" alt="Liza Petrova | Instagram" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" height="30" width="30"/>
-</a> &nbsp;&nbsp;
 <a href="mailto:goldgalider@gmail.com" >
   <img align="center" alt="Liza Petrova | Gmail" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="30" width="30"/>
 </a> &nbsp;&nbsp;
