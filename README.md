@@ -37,4 +37,3 @@
 ![Flutter](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&&logoColor=0000000)
 ![Flutter](https://img.shields.io/badge/-mantine-000000?style=for-the-badge&logo=mantine&&logoColor=0000000)
 
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
