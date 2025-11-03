@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lizaveta01/Lizaveta01/main/preview.png" height="200"/>
-</p>
-<h1 align="center">Hey there, I'm Liza </h1>
 <h3 align="center">Software Engineer | Frontend | Backend | Mobile </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lizaveta-petrova-4b1991220/" target="_blank">
